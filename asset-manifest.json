@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/netflix-pages/static/css/main.a617e044.chunk.css",
+    "main.js": "/github.io/netflix-pages/static/js/main.83a96916.chunk.js",
+    "main.js.map": "/github.io/netflix-pages/static/js/main.83a96916.chunk.js.map",
+    "runtime-main.js": "/github.io/netflix-pages/static/js/runtime-main.86ddb46e.js",
+    "runtime-main.js.map": "/github.io/netflix-pages/static/js/runtime-main.86ddb46e.js.map",
+    "static/js/2.94e25ce0.chunk.js": "/github.io/netflix-pages/static/js/2.94e25ce0.chunk.js",
+    "static/js/2.94e25ce0.chunk.js.map": "/github.io/netflix-pages/static/js/2.94e25ce0.chunk.js.map",
+    "static/js/3.d0f25590.chunk.js": "/github.io/netflix-pages/static/js/3.d0f25590.chunk.js",
+    "static/js/3.d0f25590.chunk.js.map": "/github.io/netflix-pages/static/js/3.d0f25590.chunk.js.map",
+    "index.html": "/github.io/netflix-pages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/github.io/netflix-pages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.94e25ce0.chunk.js.LICENSE.txt": "/github.io/netflix-pages/static/js/2.94e25ce0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/netflix-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86ddb46e.js",
+    "static/js/2.94e25ce0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.83a96916.chunk.js"
+  ]
+}
